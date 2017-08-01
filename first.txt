@@ -1,7 +1,4 @@
 Our best thoughts came from others.
 To be or not be, that is the question!
-<<<<<<< HEAD
-Out, damned spot! Out, I say! - Hammmmmmmlet
-=======
 Out, damned spot! Out, I say - Hamlet!
->>>>>>> example
+Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
