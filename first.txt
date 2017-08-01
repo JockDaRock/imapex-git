@@ -1,3 +1,7 @@
 Our best thoughts came from others.
 To be or not be, that is the question!
+<<<<<<< HEAD
 Out, damned spot! Out, I say! - Hammmmmmmlet
+=======
+Out, damned spot! Out, I say - Hamlet!
+>>>>>>> example
